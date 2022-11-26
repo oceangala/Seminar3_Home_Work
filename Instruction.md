@@ -48,7 +48,7 @@ _Стив Джобс_
 
 ## Картинка
 
-![Красивое]([dz.jpg](https://bigpicture.ru/wp-content/uploads/2021/07/bigpicture_ru_31353.jpg)
+![Красивое](https://bigpicture.ru/wp-content/uploads/2021/07/bigpicture_ru_31353.jpg)
 
 
 Такое задание
